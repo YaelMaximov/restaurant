@@ -1,0 +1,3 @@
+node_modules
+backend/routes/db.js
+backend/.env
